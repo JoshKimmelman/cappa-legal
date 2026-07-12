@@ -8,7 +8,7 @@ For questions, bug reports, or feature requests, email:
 
 **joshkimmelman@gmail.com**
 
-I do my best to respond within a few business days.
+We do our best to respond within a few business days.
 
 ## Frequently Asked Questions
 
@@ -19,17 +19,17 @@ Cappa lets you explore NFL betting trends. Build custom queries across historica
 No. Cappa is for informational and entertainment purposes only. It does not offer wagering of any kind and nothing in the app constitutes betting advice.
 
 **Do I need an account?**
-No. Cappa requires no sign-up, collects no personal data, and works right out of the box...for now.  As it grows I may have to monetize some new features that involve paid services.
+No. Cappa requires no sign-up, collects no personal data, and works right out of the box.
 
 **Why don't I see any games?**
 Matchups appear when upcoming NFL games have posted odds. During the offseason or very early in the week, the list may be shorter than usual.
 
 **How current is the data?**
-Odds and matchups are refreshed regularly from our data sources. Historical trends are based on real past game results and closing lines. As soon as my data sources update their odds, I update my online database as soon as I can.
+Odds and matchups are refreshed regularly from our data sources. Historical trends are based on real past game results and closing lines.
 
 ## Privacy
 
-Cappa does not collect, store, or share any personal information. Read the full [Privacy Policy](https://joshkimmelman.github.io/cappa-legal/).
+Cappa does not collect, store, or share any personal information. Read the full [Privacy Policy](https://joshkimmelman.github.io/cappa-legal/) and [Terms of Use](https://joshkimmelman.github.io/cappa-legal/terms).
 
 ---
 
